@@ -1,1 +1,4 @@
-# skillfactory_rds
+# SkillFactory course
+
+
+[Data Science](https://skillfactory.ru/data-scientist)
