@@ -112,7 +112,7 @@ traitlets==4.3.3
 Twisted==20.3.0
 urllib3==1.22
 w3lib==1.22.0
-waitress==1.1.0
+waitress==1.4.3
 wcwidth==0.1.9
 webdavclient3==3.14.2
 webencodings==0.5.1
